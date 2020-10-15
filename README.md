@@ -1,25 +1,24 @@
 # User Database with client (ReactJS) and server (NodeJS+Express) sides
 
+Application have client side (client folder) on ReactJS with react-router and Antd ui-framework. Uses axios requests.
+Application have server side (server folder) on NodeJS+Express. Emulation database - lowdb package.
+
+You can add user data - button "Submit your data" on main page
+You can view content of user data database - button "Browse submitted data" on main page
+You can edit/delete user data - appropriate buttons in front of the userData row.
+Create and Edit user done using a modal window.
+
 ## Launch application
 
 To start the server:
 
-  - 1. Go to the server folder.
-  - 2. Run command `npm start`.
+ 1. Go to the server folder.
+ 2. Run command `npm start`.
 
 To start the application:
 
- - 1. Go to client filder.
- - 2. Run commnad `npm start`.
- - 3. View page on adress `http://http://localhost:3000/`
-
- Additional functionality:
- 
- 1. The back button on the page with the user data.
-
- 2. the ability to edit a specific user.
- 
- 3. Slightly improved interface of the main pages and modal Windows
-
+ 1. Go to client filder.
+ 2. Run commnad `npm start`.
+ 3. View page on adress `http://http://localhost:3000/`
 
 ## ENJOY!
