@@ -3,9 +3,12 @@
 Application have client side (client folder) on ReactJS with react-router and Antd ui-framework. Uses axios requests.
 Application have server side (server folder) on NodeJS+Express. Emulation database - lowdb package.
 
-You can add user data - button "Submit your data" on main page
+You can add user data - button "Submit your data" on main page.
+
 You can view content of user data database - button "Browse submitted data" on main page
+
 You can edit/delete user data - appropriate buttons in front of the userData row.
+
 Create and Edit user done using a modal window.
 
 ## Launch application
