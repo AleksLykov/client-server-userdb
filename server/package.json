@@ -1,0 +1,17 @@
+{
+  "name": "userdatanodejs",
+  "version": "1.0.0",
+  "description": "Server side of app 'UserData' on Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "lowdb": "^1.0.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  }
+}

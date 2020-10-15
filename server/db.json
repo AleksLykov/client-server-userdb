@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Roman",
+      "email": "roman@google.com",
+      "mPhone": "+46 76-802 21 17"
+    },
+    {
+      "name": "Aleksandr",
+      "email": "aleks.lykov@gmail.com",
+      "mPhone": "+7 908 678 30 93",
+      "id": "1602779366024"
+    }
+  ],
+  "quantity": 3
+}
