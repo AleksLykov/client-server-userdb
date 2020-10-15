@@ -16,12 +16,14 @@ Create and Edit user done using a modal window.
 To start the server:
 
  1. Go to the server folder.
- 2. Run command `npm start`.
+ 2. Run command `npm install`.
+ 3. Run command `npm start`.
 
 To start the application:
 
  1. Go to client filder.
- 2. Run commnad `npm start`.
- 3. View page on adress `http://http://localhost:3000/`
+ 2. Run commnad `npm install`.
+ 3. Run command `npm start`.
+ 4. View page on adress `http://http://localhost:3000/`
 
 ## ENJOY!
